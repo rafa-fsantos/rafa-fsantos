@@ -1,6 +1,11 @@
 # Olá, eu sou o Rafa!
 ## Bem vindo ao meu perfil Github 👋
 
+### Tecnologias e Ferramentas que utilizo
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+          
+
 
 
 <!--
