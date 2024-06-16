@@ -59,9 +59,10 @@ Aqui estão alguns dos meus projetos mais destacados:
 
 ## Conecte-se Comigo
 
-- [LinkedIn](link para o seu perfil no LinkedIn)
-- [Twitter](link para o seu perfil no Twitter)
-- [Portfólio](link para o seu portfólio ou site pessoal)
+<div>
+<a href = "mailto:mfa.rafael@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafa-fsantos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ## Estatísticas do GitHub
 
@@ -72,41 +73,4 @@ Aqui estão alguns dos meus projetos mais destacados:
 ---
 
 Obrigado pela visita! Se você gostou do que viu, não hesite em me contatar ou colaborar em algum projeto.
-
-
-<div>
-<a href="https://github.com/rafa-fsantos">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-fsantos&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-fsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-### Tecnologias e Ferramentas que utilizo
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />
-
-## Contatos
-<div>
-<a href="https://www.linkedin.com/in/rafa-fsantos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:mfa.rafael@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-          
-          
-
-
-
-<!--
-**rafa-fsantos/rafa-fsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
