@@ -15,11 +15,20 @@ Sou o Rafael, mas pode me chamar de Rafa. Sou bancário e estudante de Data Scie
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
-- **Linguagens:** [Linguagens de programação que você conhece, por exemplo, JavaScript, Python, Java, etc.]
+- **Linguagens:**
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" height="40" />                  
 </div>
-- **Frameworks e Bibliotecas:** [Frameworks e bibliotecas que você usa, por exemplo, React, Angular, Django, etc.]
+- **Frameworks e Bibliotecas:**
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" />
+          
+          
+          
+</div>
 - **Ferramentas de Desenvolvimento:** [Ferramentas que você utiliza, por exemplo, Git, Docker, VSCode, etc.]
 - **Bancos de Dados:** [Tipos de bancos de dados que você conhece, por exemplo, MySQL, PostgreSQL, MongoDB, etc.]
 - **Outros:** [Qualquer outra tecnologia ou ferramenta relevante]
