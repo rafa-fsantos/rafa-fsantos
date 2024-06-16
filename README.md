@@ -66,9 +66,9 @@ Aqui estão alguns dos meus projetos mais destacados:
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafa-fsantos&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rafa-fsantos&show_icons=true&theme=dark)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-fsantos&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-fsantos&layout=compact&theme=dark)
 
 ---
 
