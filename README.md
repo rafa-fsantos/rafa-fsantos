@@ -8,7 +8,7 @@ Sou o Rafael, mas pode me chamar de Rafa. Sou bancário e estudante de Data Scie
 
 - 💼 Atualmente trabalho como Gerente de Relacionamento PJ no Banco do Brasil S/A.
 - 🎓 Sou graduado em Análise e Desenvolvimento de Sistemas pela Uninter e Pós-Grauduado em Engenharia de Dados pela PUC-Minas.
-- 🌱 No momento estou cursando Pós-Graduação em Data Science e Analytics pela USP/Esalq e estudando sobre IA, linguagens de programação como Python, R e SQL.
+- 🌱 No momento estou cursando Pós-Graduação em Data Science e Analytics pela USP/Esalq e Pós-Graduação em Ciência de Dados pela DS Academy, além de estudar sobre IA, linguagens de programação como Python, R e SQL.
 - 💬 Pergunte-me sobre Economia, Comércio Exterior e Data Science e teremos muito assunto a conversar.
 
 ## Tecnologias e Ferramentas
