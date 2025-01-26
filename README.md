@@ -54,7 +54,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu estudo:
 
 Aqui estão alguns dos meus projetos mais destacados:
 
-1. [Nome do Projeto](link para o repositório)
+1. [RecomendAcoes](link para o repositório)
    - **Descrição:** Breve descrição do projeto.
    - **Tecnologias:** Tecnologias usadas no projeto.
 
