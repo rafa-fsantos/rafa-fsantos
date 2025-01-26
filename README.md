@@ -13,7 +13,7 @@ Sou o Rafael, mas pode me chamar de Rafa. Sou bancário e estudante de Data Scie
 
 ## Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias e ferramentas com as quais eu estudo:
+Aqui estão algumas das tecnologias e ferramentas as quais eu estudo:
 
 - **Linguagens:**
 <div>
@@ -44,7 +44,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu estudo:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />          
 </div>
 
-- **Outros:** [Qualquer outra tecnologia ou ferramenta relevante]
+- **Outros:**
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />        
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40" />          
@@ -52,11 +52,16 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu estudo:
 
 ## Projetos Destacados
 
-Aqui estão alguns dos meus projetos mais destacados:
+Aqui estão alguns dos meus projetos:
 
-1. [RecomendAcoes](link para o repositório)
-   - **Descrição:** Breve descrição do projeto.
-   - **Tecnologias:** Tecnologias usadas no projeto.
+1. [RecomendAcao](https://github.com/rafa-fsantos/recomendAcoes)
+   - **Descrição:**
+     RecomendAcao é um projeto de recomendação de Ações da B3 (Bolsa de Valores Brasileira) que utiliza a classificação setorial (Setor Econômico, Subsetor, Segmento e Segmento Listagem) que visa oferecer sugestões precisas e automatizadas de empresas que operem em mercados relacionados ou possuam semelhanças setoriais. 
+   - **Tecnologias:**
+     Utilizando a técnica de espaço vetorial através do método de distância do cosseno utilizamos as seguintes tecnólogias:
+      - Numpy e Pandas - para tratamento e manipulação de dados.
+      - Scikit-learn - para modelagem vetorial
+      - Nltk e Openpyxl - para stemming (redução de palavra a seus radicais) e manipulação de planilhas Excel.
 
 ## Conecte-se Comigo
 
